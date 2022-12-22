@@ -9,7 +9,7 @@ public class characterorientedchannel {
 	public static void main(String[] args) throws IOException {
 		// step1 : create the channel
 		FileReader reader = new FileReader("abc.txt");
-		FileWriter writer = new FileWriter("cba.txt");
+		FileWriter writer = new FileWriter("xyz.txt");
 
 		// step 2 read and write operations
 		int c;

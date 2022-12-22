@@ -16,6 +16,8 @@ public class test {
 		System.out.println(t1);
 		System.out.println(t2);
 		System.gc();
+		
+		
 	}
 
 }

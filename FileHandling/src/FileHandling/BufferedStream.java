@@ -13,7 +13,7 @@ public class BufferedStream {
 		try {
 			// step 1
 			reader = new BufferedReader(new FileReader("abc.txt"));
-			write = new BufferedWriter(new FileWriter("munny.txt"));
+			write = new BufferedWriter(new FileWriter("shahid.txt"));
 			// step 2
 			String line;
 			while ((line = reader.readLine()) != null) {
